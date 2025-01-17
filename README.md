@@ -33,7 +33,7 @@ The main focus is on the sales performance of various product lines in different
 
 ![pic](./images/exec_insights.png "pic")
 
-**Select a measure:**
+**1. Select a measure:**
 
 Users can select one of the following measures for analysis:
 
@@ -41,7 +41,7 @@ Users can select one of the following measures for analysis:
 - **Quantity**
 - **Revenue**
 
-**Select a perspective:**
+**2. Select a perspective:**
 
 Further filtering options allow users to drill down by **country**, **product line**, and **month** via a dropdown list.
 
